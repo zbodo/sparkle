@@ -1,15 +1,7 @@
 # Sparkle
 
-<h3 align="center">Another <a href="https://github.com/MetaCubeX/mihomo">Mihomo</a> GUI</h3>
+<h3>Another <a href="https://github.com/MetaCubeX/mihomo">Mihomo</a> GUI</h3>
 
-<p align="center">
-  <a href="https://github.com/xishang0128/sparkle/releases">
-    <img src="https://img.shields.io/github/release/xishang0128/sparkle/all.svg">
-  </a>
-  <a href="https://t.me/+y7rcYjEKIiI1NzZl">
-    <img src="https://img.shields.io/badge/Telegram-Group-blue?logo=telegram">
-  </a>
-</p>
 
 ## 特性
 
@@ -217,33 +209,3 @@ node --version
 
 - 确保 Node.js 版本 >= 20.0.0
 - 使用 pnpm 进行依赖管理
-
-### 贡献指南
-
-1. Fork 本仓库
-2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送分支 (`git push origin feature/AmazingFeature`)
-5. 创建 Pull Request
-
-### 开发注意事项
-
-- 请确保代码通过 ESLint 检查
-- 提交前运行 `pnpm format` 格式化代码
-- 遵循现有的代码风格和命名规范
-- 添加新功能时请更新相关文档
-- 主进程代码修改后需要重启开发服务器
-- 渲染进程代码支持热重载
-- 所有命令都使用 pnpm 执行
-- 修改类型定义后需要重启 TypeScript 服务
-- 预加载脚本修改后需要重启应用
-
-## Star History
-
-<a href="https://www.star-history.com/#xishang0128/sparkle&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xishang0128/sparkle&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xishang0128/sparkle&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=xishang0128/sparkle&type=Date" />
- </picture>
-</a>
