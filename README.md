@@ -46,7 +46,7 @@ Sparkle 基于 Electron + React + TypeScript 构建
 1. **克隆项目**
 
 ```bash
-git clone https://github.com/xishang0128/sparkle.git
+git clone https://github.com/zbodo/sparkle.git
 cd sparkle
 ```
 
